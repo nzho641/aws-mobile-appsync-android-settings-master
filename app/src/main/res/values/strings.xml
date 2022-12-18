@@ -1,0 +1,11 @@
+<!--
+// Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+// SPDX-License-Identifier: MIT-0.
+-->
+<resources>
+    <string name="app_name">AppSyncSettings</string>
+
+    <string name="title_preferences">Preferences</string>
+
+    <string name="field_theme">Theme</string>
+</resources>
